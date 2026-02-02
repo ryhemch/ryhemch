@@ -1,4 +1,4 @@
-### Hi, I'm Ryhem§
+### Hi, I'm Ryhem!
 
 🎓 **Computer Engineering graduate** | Master’s in Embedded Systems  
 💡 Passionate about **AI & Machine Learning for Embedded Systems and Smart Connected IoT**  
